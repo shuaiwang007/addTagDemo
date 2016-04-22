@@ -1,0 +1,15 @@
+
+//
+//  WSPrefixHeader.pch
+//  addTagDemo
+//
+//  Created by Mr.Wang on 16/4/22.
+//  Copyright © 2016年 Mr.wang. All rights reserved.
+//
+
+#ifndef _1_______PrefixHeader_pch
+#define _1_______PrefixHeader_pch
+
+#import"UIView+WSExtension.h"
+
+#endif
